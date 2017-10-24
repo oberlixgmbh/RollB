@@ -1,0 +1,26 @@
+{
+  "name": "rollb",
+  "version": "1.0.0",
+  "description": "sweet little robot ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oberlixgmbh/RollB.git"
+  },
+  "keywords": [
+    "bb8",
+    "robot"
+  ],
+  "author": "simon prell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oberlixgmbh/RollB/issues"
+  },
+  "homepage": "https://github.com/oberlixgmbh/RollB#readme",
+  "dependencies": {
+    "saphero": "^1.0.3"
+  }
+}
